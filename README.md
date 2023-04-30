@@ -1,8 +1,3 @@
-# notes-wiki
-
-[![License](https://img.shields.io/badge/license-MIT-_red.svg)](https://opensource.org/licenses/MIT)
-[![Go Report Card](https://goreportcard.com/badge/github.com/viiftw/notes-wiki)](https://goreportcard.com/report/github.com/viiftw/notes-wiki)
-
 Simple web app written in Golang save my notes
 
 ## Usage
