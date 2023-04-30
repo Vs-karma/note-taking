@@ -18,8 +18,3 @@ Default service run on port 8686
 - Save a note
 - View a note
 - Edit a note
-
-## License
-
-This repo is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).  
-You are welcome to contribute!
